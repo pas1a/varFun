@@ -17,7 +17,8 @@ class ViewController: UIViewController,UITextFieldDelegate {
     var dog = 7.5
     var cat: Int? //Declaring an opitional
     var horse: Double! // decclaring non optional cant be nill
-    var ant: String = ""// declaring a variable(must initalize in init)
+    var ant: String = ""// declaring a variable(mustinitalize in init)
+    var git = true
     @IBOutlet weak var textField1: UITextField!
     
     
